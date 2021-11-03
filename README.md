@@ -9,3 +9,6 @@ Kuchen mit Apfel
 5 Äpfel
 
 Berühren alles zusammen.
+
+
+Die Backzeit beträgt 180 Min. bei 220 Grad
